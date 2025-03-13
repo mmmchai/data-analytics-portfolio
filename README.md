@@ -19,6 +19,20 @@ Analyze order demand on the FoodHub app to deliver data-driven recommendations f
 * Exploratory Data Analysis & Data Visualization (Matplotlib, Seaborn)
 * Business Intelligence & Strategy
 
+### 2. [Superstore Customer Segmentation RFM Analysis](https://github.com/mmmchai/superstore-rfm-clustering)
+#### Context
+In a highly competitive retail environment, understanding customer purchasing behavior is critical for driving business growth. However, without a structured approach to customer segmentation, businesses struggle to identify high-value customers, optimize marketing strategies, and improve customer retention.
+
+#### Objective
+
+This analysis applies Recency, Frequency, and Monetary (RFM) segmentation to the Superstore dataset to categorize customers into distinct clusters. 
+
+#### Skills Practiced
+
+* Unsupervised Machine Learning - Kmeans, Hierarchical Clustering
+* Data Visualization & Insights
+
+
 ## Additional Projects (Coming Soon)
 
 Stay tuned for more data analytics projects covering topics such as customer segmentation, financial risk modeling, and predictive analytics.
