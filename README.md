@@ -35,7 +35,7 @@ This analysis applies Recency, Frequency, and Monetary (RFM) segmentation to the
 
 ## Additional Projects (Coming Soon)
 
-Stay tuned for more data analytics projects covering topics such as customer segmentation, financial risk modeling, and predictive analytics.
+Stay tuned for more data analytics projects covering topics such as predictive analytics.
 
 # Connect with Me
 
